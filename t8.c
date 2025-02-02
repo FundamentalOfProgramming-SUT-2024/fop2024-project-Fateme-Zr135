@@ -758,4 +758,3 @@ int isValidPassword(const char *password) {
     }
     return hasDigit && hasUpper && hasLower;
 }
-//
